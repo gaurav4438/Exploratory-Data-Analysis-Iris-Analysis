@@ -1,8 +1,8 @@
-## EDA on Iris Dataset – CodeClause Internship
+## EDA on Iris Dataset
 
 ### Project Overview
 
-This project involves performing **Exploratory Data Analysis (EDA)** on the classic **Iris dataset** using Python libraries like Pandas, Matplotlib, and Seaborn. It was completed as part of the **CodeClause Data Science Internship (August 2025)**.
+This project involves performing **Exploratory Data Analysis (EDA)** on the classic **Iris dataset** using Python libraries like Pandas, Matplotlib, and Seaborn. 
 
 The goal of this EDA was to understand the structure, patterns, and relationships among the various features of the dataset (sepal and petal measurements across three iris species).
 
