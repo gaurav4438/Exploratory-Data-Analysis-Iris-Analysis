@@ -4,7 +4,7 @@
 
 This project involves performing **Exploratory Data Analysis (EDA)** on the classic **Iris dataset** using Python libraries like Pandas, Matplotlib, and Seaborn. 
 
-The goal of this EDA was to understand the structure, patterns, and relationships among the various features of the dataset (sepal and petal measurements across three iris species).
+The goal of this EDA was to understand the structure, patterns, and relationships among the various features of the dataset (sepal and petal measurements across three iris species - as a part of CodeClause Internship.
 
 ---
 
